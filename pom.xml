@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.teskinfly</groupId>
-    <artifactId>TimeModifier</artifactId>
+    <artifactId>FileSorter</artifactId>
     <version>1.0</version>
     <build>
         <plugins>
@@ -21,7 +21,7 @@
                     <archive>
                         <manifest>
                             <!-- 主程序入口 -->
-                            <mainClass>com.teskinfly.TimeModifier</mainClass>
+                            <mainClass>com.teskinfly.FileSorter</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
